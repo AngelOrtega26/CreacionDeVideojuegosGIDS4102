@@ -19,42 +19,47 @@
 
 ---
 ## **Prototipo 1**
-### [Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%201.unitypackage)
+[Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%201.unitypackage)
 ### Resultado
+![image](https://github.com/user-attachments/assets/8f77bf97-0b49-4e64-85c6-9a97aca81d82)
 ---
 ---
 ## **Prototipo 2**
-### [Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%202.unitypackage)
+[Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%202.unitypackage)
 ### Resultado
-### Evidencia de autoría
+![image](https://github.com/user-attachments/assets/8d30ca51-663c-4023-abe5-2c146ab9c6a0)
+![image](https://github.com/user-attachments/assets/0b3c8173-aa98-4bdc-9c32-bc4171e03eaa)
+### Evidencias de autoría
+[*Documento...*](https://github.com/user-attachments/files/17810409/Leccion02_OrtegaAmaroAngelDeJesus.pdf)
 ---
 ---
 ## **Desafío 1**
-### [Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Desafio%201.unitypackage)
+[Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Desafio%201.unitypackage)
 ### Resultado
-### Evidencia de autoría
+![image](https://github.com/user-attachments/assets/d090844b-08a6-49d0-a636-87f4dd5bd3c0)
 ---
 ---
 ## **Desafío 2**
-### [Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Desafio%202.unitypackage)
+[Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Desafio%202.unitypackage)
 ### Resultado
-### Evidencia de autoría
+![image](https://github.com/user-attachments/assets/fc8e722a-2d14-43bd-9c70-c4f2965b1b67)
+![image](https://github.com/user-attachments/assets/59ef4682-babc-48b5-b154-ebbf7fa957db)
 ---
 ---
 ## **Prototipo 3**
-### [Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
+[Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
 ### Resultado
 ### Evidencia de autoría
 ---
 ---
 ## **Prototipo 4**
-### [Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%204.unitypackage)
+[Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%204.unitypackage)
 ### Resultado
 ### Evidencia de autoría
 ---
 ---
 ## **Prototipo 5**
-### [Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%205.unitypackage)
+[Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%205.unitypackage)
 ### Resultado
 ### Evidencia de autoría
 ---
