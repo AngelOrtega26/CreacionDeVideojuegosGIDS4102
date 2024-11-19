@@ -49,17 +49,22 @@
 ## **Prototipo 3**
 [Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
 ### Resultado
-### Evidencia de autoría
+![image](https://github.com/user-attachments/assets/5671a65e-6e5a-463c-bff1-7f9f106a1ed9)
+![image](https://github.com/user-attachments/assets/3ec51547-9c88-4c5f-a8fd-74adc6a34388)
+### Evidencias de autoría
 ---
 ---
 ## **Prototipo 4**
 [Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%204.unitypackage)
 ### Resultado
-### Evidencia de autoría
+![image](https://github.com/user-attachments/assets/ced3a748-0617-43f6-8476-24e309dc3521)
+![image](https://github.com/user-attachments/assets/75287190-c3b8-4e38-b3e3-8e06f7962b62)
+![image](https://github.com/user-attachments/assets/5c89e942-9170-45cb-bef8-65fa998ca13a)
+### Evidencias de autoría
 ---
 ---
 ## **Prototipo 5**
 [Link del proyecto](#https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%205.unitypackage)
 ### Resultado
-### Evidencia de autoría
+### Evidencias de autoría
 ---
