@@ -55,6 +55,8 @@
 ## **Prototipo 5**
 [Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%205.unitypackage)
 ### Resultado
+![image](https://github.com/user-attachments/assets/b3b54b74-0a34-499f-b801-a33ae1f2193d)
+![image](https://github.com/user-attachments/assets/b82cec60-8e63-487f-9642-8fb3d3be653b)
 ### Evidencias de autoría
 [*Documento...*](https://github.com/user-attachments/files/17923900/Prototipo.5.-.Angel.Ortega.pdf)
 ---
