@@ -33,13 +33,12 @@
 [*Documento...*](https://github.com/user-attachments/files/17810409/Leccion02_OrtegaAmaroAngelDeJesus.pdf)
 ---
 ---
-## **Prototipo 3**
+## **Prototipo 3: Parte 1**
 [Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
 ### Resultado
-![image](https://github.com/user-attachments/assets/5671a65e-6e5a-463c-bff1-7f9f106a1ed9)
-![image](https://github.com/user-attachments/assets/3ec51547-9c88-4c5f-a8fd-74adc6a34388)
+![image](https://github.com/user-attachments/assets/542c6eb8-10ee-4c02-8067-be25e2d33eae)
 ### Evidencias de autoría
-[*Documento...*](https://github.com/user-attachments/files/17923960/Prototipo.3.-.Angel.Ortega.pdf)
+[*DOCUMENTO DE EVIDENCIAS*](https://github.com/user-attachments/files/17940317/Prototipo.3.-.Pt.1.-.Angel.Ortega.pdf)
 ---
 ---
 ## **Prototipo 4**
