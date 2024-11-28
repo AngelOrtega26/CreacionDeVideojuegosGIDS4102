@@ -50,28 +50,27 @@
 ![image](https://github.com/user-attachments/assets/c88cb5dd-a993-4d42-88d5-e5d6eb757eee)
 ![image](https://github.com/user-attachments/assets/bb057a45-9b17-4a54-bc04-b1c6b5e86a6e)
 ### Evidencias de autoría
-[*Documento de evidencias*](https://github.com/user-attachments/files/17950487/Prototipo.3.-.Pt.2.-.Angel.Ortega.pdf)
+[*DOCUMENTO DE EVIDENCIAS*](https://github.com/user-attachments/files/17950487/Prototipo.3.-.Pt.2.-.Angel.Ortega.pdf)
 ---
 ---
----
-## **Prototipo 4**
-[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%204.unitypackage)
+## **Prototipo 3: Parte 3**
+[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
 ### Resultado
-![image](https://github.com/user-attachments/assets/ced3a748-0617-43f6-8476-24e309dc3521)
-![image](https://github.com/user-attachments/assets/75287190-c3b8-4e38-b3e3-8e06f7962b62)
-![image](https://github.com/user-attachments/assets/5c89e942-9170-45cb-bef8-65fa998ca13a)
+![image](https://github.com/user-attachments/assets/0fb9daef-3651-4155-990d-289ed1370dcb)
+![image](https://github.com/user-attachments/assets/4389e265-b02d-4e49-a8c4-7b49dbdc414c)
+![image](https://github.com/user-attachments/assets/d7161cf0-49f7-4b69-b4ab-afd365ab6b17)
 ### Evidencias de autoría
-[*Documento...*](https://github.com/user-attachments/files/17923865/Prototipo.4.-.Angel.Ortega.pdf)
+[*DOCUMENTO DE EVIDENCIAS*](https://github.com/user-attachments/files/17951488/Prototipo.3.-.Pt.3.-.Angel.Ortega.pdf)
 ---
----
-## **Prototipo 5**
-[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%205.unitypackage)
-### Resultado
-![image](https://github.com/user-attachments/assets/b3b54b74-0a34-499f-b801-a33ae1f2193d)
-![image](https://github.com/user-attachments/assets/b82cec60-8e63-487f-9642-8fb3d3be653b)
-### Evidencias de autoría
-[*Documento...*](https://github.com/user-attachments/files/17923900/Prototipo.5.-.Angel.Ortega.pdf)
----
+
+
+
+
+
+
+
+
+
 ---
 ## **Desafío 1**
 [Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Desafio%201.unitypackage)
