@@ -41,6 +41,19 @@
 [*DOCUMENTO DE EVIDENCIAS*](https://github.com/user-attachments/files/17940317/Prototipo.3.-.Pt.1.-.Angel.Ortega.pdf)
 ---
 ---
+## **Prototipo 3: Parte 2**
+[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
+### Resultado
+![image](https://github.com/user-attachments/assets/4fb3c757-42cc-4e0c-b11d-e7a2f776d091)
+![image](https://github.com/user-attachments/assets/de9f81b6-e6ff-467e-a37c-c2a839fad1af)
+![image](https://github.com/user-attachments/assets/1f1a3f01-7ad9-4977-8bfa-1e08607d9c6b)
+![image](https://github.com/user-attachments/assets/c88cb5dd-a993-4d42-88d5-e5d6eb757eee)
+![image](https://github.com/user-attachments/assets/bb057a45-9b17-4a54-bc04-b1c6b5e86a6e)
+### Evidencias de autoría
+[*Documento de evidencias*](https://github.com/user-attachments/files/17950487/Prototipo.3.-.Pt.2.-.Angel.Ortega.pdf)
+---
+---
+---
 ## **Prototipo 4**
 [Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%204.unitypackage)
 ### Resultado
