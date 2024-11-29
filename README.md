@@ -37,7 +37,7 @@
 ---
 ---
 ## **Prototipo 3: Parte 1**
-[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
+[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/main/PR03%20-%20PT1.unitypackage)
 ### Resultado
 ![image](https://github.com/user-attachments/assets/542c6eb8-10ee-4c02-8067-be25e2d33eae)
 ### Evidencias de autoría
@@ -45,7 +45,7 @@
 ---
 ---
 ## **Prototipo 3: Parte 2**
-[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
+[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/main/PR03%20-%20PT2.unitypackage)
 ### Resultado
 ![image](https://github.com/user-attachments/assets/4fb3c757-42cc-4e0c-b11d-e7a2f776d091)
 ![image](https://github.com/user-attachments/assets/de9f81b6-e6ff-467e-a37c-c2a839fad1af)
@@ -57,7 +57,7 @@
 ---
 ---
 ## **Prototipo 3: Parte 3**
-[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
+[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/main/PR03%20-%20PT3.unitypackage)
 ### Resultado
 ![image](https://github.com/user-attachments/assets/0fb9daef-3651-4155-990d-289ed1370dcb)
 ![image](https://github.com/user-attachments/assets/4389e265-b02d-4e49-a8c4-7b49dbdc414c)
@@ -67,7 +67,7 @@
 ---
 ---
 ## **Prototipo 3: Parte 4**
-[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
+[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/main/PR03%20-%20PT4.unitypackage)
 ### Resultado
 ![image](https://github.com/user-attachments/assets/2a4c0fcd-f834-421e-bba2-992d4546df74)
 ### Evidencias de autoría
@@ -75,7 +75,7 @@
 ---
 ---
 ## **Prototipo 3: Parte 5**
-[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/3267a41bceb94e9f49a5c922e0385309c964f1c9/Prototipo%203.unitypackage)
+[Link del proyecto](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/main/PR03%20-%20PT5.unitypackage)
 ### Resultado
 ![image](https://github.com/user-attachments/assets/46d7b7b4-46b4-4166-a502-343a50384782)
 ### Evidencias de autoría
