@@ -84,7 +84,7 @@
 ---
 ## **Prototipo 3: Parte 6**
 ### Resultado
-![image](https://github.com/AngelOrtega26/CreacionDeVideojuegosGIDS4102/blob/main/PR03%20-%20PT6.unitypackage)
+![image](https://github.com/user-attachments/assets/811bc0b9-51f7-45be-b1fd-c1c63ec4afab)
 ### Evidencias de autoría
 [*DOCUMENTO DE EVIDENCIAS*](https://github.com/user-attachments/files/17953142/Prototipo.3.-.Pt.6.-.Angel.Ortega.pdf)
 ---
